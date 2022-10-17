@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "b04QN6m+beyP+re+y9RXPRlJMqSJUfTW53tShvUdPOk=",
+  "Source": "DemoDeploy",
+  "BasePath": "_content/DemoDeploy",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
